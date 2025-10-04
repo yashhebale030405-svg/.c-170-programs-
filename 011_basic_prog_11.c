@@ -1,7 +1,5 @@
-/*
- * Program 011: Check prime (simple)
- * Concept: for loop, if-else
- */
+
+
 #include <stdio.h>
 
 int main() {
